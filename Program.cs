@@ -20,6 +20,22 @@ namespace FirstApp
             int idade = 24;
             int anoDeNascimento = 1998;
             Console.WriteLine("Olá meu nome é " + nome + ", tenho " + idade " anos e nasci no ano de " + anoDeNascimento); // Concatenação pode ser feito utilizando o sinal +.
+
+            int x, y;
+            x = 5;
+            y = 2 * x;
+
+            Console.WriteLine(x); // exercitando
+            Console.WriteLine(y);
+
+            double b, B, h, area;
+
+            b = 6.0;
+            B = 8.0;
+            h = 5.0;
+            area = ((b + B) / 2) * h;
+
+            Console.WriteLine(area);        
         }
     }
 }
