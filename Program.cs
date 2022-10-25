@@ -19,7 +19,7 @@ namespace FirstApp
             string nome = "Matheus";
             int idade = 24;
             int anoDeNascimento = 1998;
-            Console.WriteLine("Olá meu nome é " + nome + ", tenho " + idade " anos e nasci no ano de " + anoDeNascimento); // Concatenação pode ser feito utilizando o sinal +.
+            Console.WriteLine("Olá meu nome é " + nome + ", tenho " + idade + " anos e nasci no ano de " + anoDeNascimento); // Concatenação pode ser feito utilizando o sinal +.
 
             int x, y;
             x = 5;
@@ -35,7 +35,22 @@ namespace FirstApp
             h = 5.0;
             area = ((b + B) / 2) * h;
 
-            Console.WriteLine(area);        
+            Console.WriteLine(area);   
+
+
+            //Exemplo
+            int a, b; //defindo o nome e o tipo das variáveis
+            double resultado;
+
+            a = 5; //atribuindo valor a variável
+            B = 2;
+
+            resultado = (double) a / B; // dividindo as variáveis e o resultado vai para uma nova variável - Adicionando (double) para o resultado ser do tipo double.'
+            Console.WriteLine(resultado); // imprimindo variável.
+
+             //CASTING -> Conversão explícita de um tipo para outro. é necessário quando o compilador não é capaz de "advinhar" que o resultado
+             // de uma expressão deve ser de outro tipo
+
         }
     }
 }
