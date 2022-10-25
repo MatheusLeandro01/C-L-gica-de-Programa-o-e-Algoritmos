@@ -14,6 +14,12 @@ namespace FirstApp
 
             Console.Writeline(x.ToString("F4")); // Função ToString serve para definir o limite de tamanho de numeros após o ponto. Ex: "F4" é igual a até 4 numeros após a virgula.
             Console.Writeline(x.ToString("F2", CultureInfo.InvarianteCulture)); //
+
+            //Concatenando elementos.
+            string nome = "Matheus";
+            int idade = 24;
+            int anoDeNascimento = 1998;
+            Console.WriteLine("Olá meu nome é " + nome + ", tenho " + idade " anos e nasci no ano de " + anoDeNascimento); // Concatenação pode ser feito utilizando o sinal +.
         }
     }
 }
