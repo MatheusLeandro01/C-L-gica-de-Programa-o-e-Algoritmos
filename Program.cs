@@ -6,7 +6,8 @@ namespace FirstApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!"); // comando para printar na tela.
+            Console.WriteLine("Hello World!"); // comando para printar na tela com quebra de linha.
+            Console.Write("Olá Mundo"); // Comando para printar na tela sem quebra de linha.            
         }
     }
 }
