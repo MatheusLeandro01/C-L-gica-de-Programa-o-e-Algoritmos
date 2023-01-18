@@ -1,0 +1,15 @@
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\bin\Debug\net6.0\Enumerate.exe
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\bin\Debug\net6.0\Enumerate.deps.json
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\bin\Debug\net6.0\Enumerate.runtimeconfig.json
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\bin\Debug\net6.0\Enumerate.dll
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\bin\Debug\net6.0\Enumerate.pdb
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\obj\Debug\net6.0\Enumerate.csproj.AssemblyReference.cache
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\obj\Debug\net6.0\Enumerate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\obj\Debug\net6.0\Enumerate.AssemblyInfoInputs.cache
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\obj\Debug\net6.0\Enumerate.AssemblyInfo.cs
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\obj\Debug\net6.0\Enumerate.csproj.CoreCompileInputs.cache
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\obj\Debug\net6.0\Enumerate.dll
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\obj\Debug\net6.0\refint\Enumerate.dll
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\obj\Debug\net6.0\Enumerate.pdb
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\obj\Debug\net6.0\Enumerate.genruntimeconfig.cache
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\Enumerate\Enumerate\obj\Debug\net6.0\ref\Enumerate.dll
