@@ -1,0 +1,15 @@
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.exe
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.deps.json
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.runtimeconfig.json
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.dll
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.pdb
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.csproj.AssemblyReference.cache
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.AssemblyInfoInputs.cache
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.AssemblyInfo.cs
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.dll
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\obj\Debug\net6.0\refint\Exercicios.dll
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.pdb
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.genruntimeconfig.cache
+C:\Users\matheus.leandro\Videos\DEV\Logica_de_Programacao_Com_C_Sharp\Enumeracao\ExerciciosEnumeracao\Exercicios\Exercicios\obj\Debug\net6.0\ref\Exercicios.dll
