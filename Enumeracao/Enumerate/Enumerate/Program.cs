@@ -16,11 +16,13 @@ namespace Enumerate
 
             Console.WriteLine(order);
 
-            string txt = OrderStatus.PendingPayment.ToString();
+            string txt = OrderStatus.PendingPayment.ToString(); //Converter um valor de Enumeração para string, apenas utilize o ToString ao final;          
+            Console.WriteLine(txt);
+
             OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
 
-            Console.WriteLine(os);
             Console.WriteLine(txt);
+            Console.WriteLine(os);
         }
     }
 }
