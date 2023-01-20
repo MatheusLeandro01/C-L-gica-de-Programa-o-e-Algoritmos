@@ -3,7 +3,7 @@ using Exercicios.Entities;
 using System;
 namespace Exercicios
 {
-    class Program
+    class Program //o que vai aparecer na tela do usuário.
     {
         static void Main(string[] args)
         {
