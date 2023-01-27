@@ -14,5 +14,11 @@
         {
             Balance = Balance - (Balance * (balance / 100));
         }
+
+        public override void WithDraw(double amount) //sobreescrevendo um método que está na superclassse(Account);
+        {
+            base.WithDraw(amount);
+            Balance -= 2.0;
+        }
     }
 }

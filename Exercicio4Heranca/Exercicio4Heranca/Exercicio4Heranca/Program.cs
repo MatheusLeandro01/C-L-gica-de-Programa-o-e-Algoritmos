@@ -7,26 +7,15 @@ namespace Exercicio4Heranca
     {
         static void Main(string[] args)
         {
-            Account acc = new Account(1001, "Alex", 0);
-            BusinessAccount bacc = new BusinessAccount(1002, "Maria", 0, 500);
+            Account acc1 = new Account(1001, "Alex", 500.0);
 
-            //Upcasting
-            Account acc1 = bacc;
-            Account acc2 = new BusinessAccount(1003, "Bob", 0.0, 200);
-            Account acc3 = new SavingAccount(1004, "Anna", 0.0, 1.0);
-            // acc2.Loan(); -> Não é possível porque acc2 é do tipo account e esse método pertence a classe business account.
+            Account acc2 = new SavingAccount(1002, "Anna", 500.0, 1);//Upcasting //estou trabalhando com o Saving account
 
-            //Downcasting
-            BusinessAccount acc4 = (BusinessAccount)acc2;
-            
-            if (acc3 is SavingAccount)
-            {
-                //SavingAccount acc5 = (SavingAccount)acc3;
-                SavingAccount acc5 = acc3 as SavingAccount;               
-                Console.WriteLine("Update");
-            }
-            
-            
+            acc1.WithDraw(10.0);
+            acc2.WithDraw(10.0);
+
+            Console.WriteLine(acc1.Balance);
+            Console.WriteLine(acc2.Balance); //acc2 está ligada ao savingaccount
         }
     }
 }

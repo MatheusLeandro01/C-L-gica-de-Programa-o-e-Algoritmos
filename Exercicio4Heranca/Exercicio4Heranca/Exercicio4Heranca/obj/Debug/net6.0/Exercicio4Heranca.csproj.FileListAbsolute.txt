@@ -1,0 +1,15 @@
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\bin\Debug\net6.0\Exercicio4Heranca.exe
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\bin\Debug\net6.0\Exercicio4Heranca.deps.json
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\bin\Debug\net6.0\Exercicio4Heranca.runtimeconfig.json
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\bin\Debug\net6.0\Exercicio4Heranca.dll
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\bin\Debug\net6.0\Exercicio4Heranca.pdb
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\obj\Debug\net6.0\Exercicio4Heranca.csproj.AssemblyReference.cache
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\obj\Debug\net6.0\Exercicio4Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\obj\Debug\net6.0\Exercicio4Heranca.AssemblyInfoInputs.cache
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\obj\Debug\net6.0\Exercicio4Heranca.AssemblyInfo.cs
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\obj\Debug\net6.0\Exercicio4Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\obj\Debug\net6.0\Exercicio4Heranca.dll
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\obj\Debug\net6.0\refint\Exercicio4Heranca.dll
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\obj\Debug\net6.0\Exercicio4Heranca.pdb
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\obj\Debug\net6.0\Exercicio4Heranca.genruntimeconfig.cache
+C:\Users\Matheus Leandro\Videos\Dev\Logica_de_Programacao_Com_C_Sharp\Exercicio4Heranca\Exercicio4Heranca\Exercicio4Heranca\obj\Debug\net6.0\ref\Exercicio4Heranca.dll

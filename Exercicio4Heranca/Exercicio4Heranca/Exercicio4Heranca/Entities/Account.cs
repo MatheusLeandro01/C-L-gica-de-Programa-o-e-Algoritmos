@@ -13,9 +13,9 @@
             Holder = holder;
             Balance = balance;
         }
-        public void WithDraw(double amount)
+        public virtual void WithDraw(double amount)//Adicionando "virtual" estou dizendo que minhas subclasses podem sobrescrever esse método;
         {
-            Balance -= amount;
+            Balance -= amount+5.0;
         }
         public void Deposit(double amount)
         {
