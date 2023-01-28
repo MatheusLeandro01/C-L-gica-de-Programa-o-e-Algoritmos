@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matheus.leandro\\Videos\\dev\\Logica_de_Programacao_Com_C_Sharp\\Exercicio4Heranca\\Exercicio4Heranca\\Exercicio4Heranca\\Exercicio4Heranca.csproj",
-      "projectName": "Exercicio4Heranca",
-      "projectPath": "C:\\Users\\matheus.leandro\\Videos\\dev\\Logica_de_Programacao_Com_C_Sharp\\Exercicio4Heranca\\Exercicio4Heranca\\Exercicio4Heranca\\Exercicio4Heranca.csproj",
+      "projectUniqueName": "C:\\Users\\matheus.leandro\\Videos\\dev\\Logica_de_Programacao_Com_C_Sharp\\Exercicio5\\Exercicio5\\Exercicio5.csproj",
+      "projectName": "Exercicio5",
+      "projectPath": "C:\\Users\\matheus.leandro\\Videos\\dev\\Logica_de_Programacao_Com_C_Sharp\\Exercicio5\\Exercicio5\\Exercicio5.csproj",
       "packagesPath": "C:\\Users\\matheus.leandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matheus.leandro\\Videos\\dev\\Logica_de_Programacao_Com_C_Sharp\\Exercicio4Heranca\\Exercicio4Heranca\\Exercicio4Heranca\\obj\\",
+      "outputPath": "C:\\Users\\matheus.leandro\\Videos\\dev\\Logica_de_Programacao_Com_C_Sharp\\Exercicio5\\Exercicio5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matheus.leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
