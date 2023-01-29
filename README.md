@@ -1,2 +1,2 @@
-# Logica_de_Programacao_Com_C_Sharp
+# Learning C#
 Registrando meu aprendizado passo a passo.
