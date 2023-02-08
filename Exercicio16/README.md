@@ -1,0 +1,2 @@
+# Learning C#
+Exercicio onde eu precisei acessar um arquivo csv, percorrer os dados e adicionar a uma classe para então criar um novo arquivo csv, e assim replicar as informações nesse novo arquivo dentro de uma nova pasta.
