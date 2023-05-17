@@ -7,9 +7,10 @@ namespace Balta
     {
         static void Main(string[] args)
         {
-            Course course = new Course(); //criando um objeto
+            //criando um objeto
+            Course course = new Course();
 
-            course.Id = 2500; //Consigo utilzar a propriedade ID, porque a classe "Course" está herdando de "Content"
+            var content = new Content();
         }
     }
 }
