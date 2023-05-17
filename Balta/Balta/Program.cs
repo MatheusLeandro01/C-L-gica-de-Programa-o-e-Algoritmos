@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Balta.ContentContext;
+using System;
 
 namespace Balta
 {
@@ -6,7 +7,9 @@ namespace Balta
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Teste");
+            Course course = new Course(); //criando um objeto
+
+            course.Id = 2500; //Consigo utilzar a propriedade ID, porque a classe "Course" está herdando de "Content"
         }
     }
 }
