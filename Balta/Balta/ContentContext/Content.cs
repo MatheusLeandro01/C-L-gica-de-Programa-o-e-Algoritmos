@@ -13,7 +13,7 @@ namespace Balta.ContentContext
             Id = Guid.NewGuid();
         }
         //propriedades
-        public Guid Id { get; set; } //o que é Guid?
+        public Guid Id { get; set; } //O guid vai gerar um ID hexadecimal aleatório
         public string Title { get; set; }
         public string Url { get; set; }
     }
