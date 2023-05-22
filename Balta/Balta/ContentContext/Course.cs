@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Balta.ContentContext.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,21 +12,6 @@ namespace Balta.ContentContext
         public Course() { Modules = new List<Module>(); }
         public string Tag { get; set; }//curso possui um código
         public IList<Module> Modules { get; set; }// um curso possui vários módulos, daí precisamos utilizar uma lista
-    }
-    public class Module
-    {
-        public Module()
-        {
-            Lectures = new List<Lecture>();
-        }
-        public int Order { get; set; }
-        public string Title { get; set; }
-        public IList<Lecture> Lectures { get; set; }
-
-    }
-    public class Lecture
-    {
-        public int Ordem { get; set; }
-        public string Title { get; set; }
-    }
+        public EContentLevel Level { get; set; }
+    }    
 }
