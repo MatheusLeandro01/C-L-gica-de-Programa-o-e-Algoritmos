@@ -6,16 +6,14 @@ using System.Threading.Tasks;
 
 namespace Balta.ContentContext
 {
-    public abstract class Content
+    public abstract class Content : Base
     {        
-        //propriedades
-        public Guid Id { get; set; } //O guid vai gerar um ID hexadecimal aleatório
+        //propriedades        
         public string Title { get; set; }
         public string Url { get; set; }
 
         public Content(string title, string url)
-        {
-            Id = Guid.NewGuid();
+        {            
             Title = title;
             Url = url;
         }
