@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Balta.NotificationContext;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +12,7 @@ namespace Balta.ContentContext
         public CareerItem(int ordem, string title, string description, Course course)
         {
             if (course == null)
-                throw new Exception("O curso não pode ser nulo");//tratamento de exceção
+                AddNotification(new Notification("Course","Curso inválido"));
             Ordem = ordem;
             Title = title;
             Description = description;

@@ -22,22 +22,26 @@ namespace Balta
             var careerDotnet = new Career("Especialista .NET","especialista-dotnet");
             careers.Add(careerDotnet);
 
-            var careerItem2 = new CareerItem(2, "Aprenda OOP", "", courseOOP);
+            var careerItem2 = new CareerItem(2, "Aprenda OOP", "", null);
             var careerItem = new CareerItem(1, "Comece por aqui", "", courseCSharp);
             var careerItem3 = new CareerItem(3, "Aprenda .NET", "", courseAspNet);
             careerDotnet.Items.Add(careerItem);
             careerDotnet.Items.Add(careerItem2);
-            careerDotnet.Items.Add(careerItem3);
-            
-
+            careerDotnet.Items.Add(careerItem3);          
+           
             foreach (var career in careers)
             {
                 Console.WriteLine(career.Title);
                 foreach (var item in career.Items)
                 {
                     Console.WriteLine($"{item.Ordem} - {item.Title}");
-                    Console.WriteLine(item.Course.Title);
-                    Console.WriteLine(item.Course.Level);
+                    Console.WriteLine(item.Course?.Title);
+                    Console.WriteLine(item.Course?.Level);
+
+                    foreach (var notification in item.Notifications)
+                    {
+                        Console.WriteLine($"{notification.Property} - {notification.Message}");
+                    }
                 }
             }             
         }
