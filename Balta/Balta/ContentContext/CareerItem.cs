@@ -1,4 +1,5 @@
 ﻿using Balta.NotificationContext;
+using Balta.SharedContext;
 using System;
 using System.Collections.Generic;
 using System.Linq;
